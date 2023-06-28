@@ -1,3 +1,5 @@
+<h1>About me</h1>
+
 - 👋 Hi, I’m @jo-on-github Otherwise known as Jo Chattoo
 - 👀 I’m interested in improving my React and SQL database skills & all round full stack skills as I look for my first role in tech
 - 🌱 I’m currently near the end of a selective 4 month full stack bootcamp, culminating in a one month long project. You can find out more about this on my LinkdIn
@@ -6,8 +8,10 @@
 - 📫 How to reach me - feel free to reach out on LinkdIn https://www.linkedin.com/in/jo-chattoo/
 
 <h1>
-  Hello
+ Skills
 </h1>
+
+<a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" style="max-width: 100%;"></a>
 
 <!---
 jo-on-github/jo-on-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
