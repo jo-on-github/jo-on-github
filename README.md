@@ -1,4 +1,4 @@
-<h1>Hi here!</h1>
+<h1>Hi there!</h1>
 
 - 👋 Hi, I’m @jo-on-github Otherwise known as Jo Chattoo, a project manager turned coder based in London
 - 👀 I’m interested in improving my React and SQL database skills & all round full stack skills as I look for my first role in tech
